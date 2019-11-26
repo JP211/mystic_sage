@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
+import logo from './MysticSage_logo_black.png';
 
-import HomePage from './homepage.component';
+import HomePage from './pages/homepage/homepage.component';
 
 function App() {
   return (
     <div>
-    <h1>Mystic Sage</h1>
+    <img src={logo} className="App-logo" alt="logo" />
     <HomePage />
     </div>
   );
