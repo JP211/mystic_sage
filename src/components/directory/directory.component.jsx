@@ -1,5 +1,9 @@
 import React from 'react';
 
+import MenuItem from '../menu-item/menu-item.component';
+
+import './directory.styles.scss';
+
 class Directory extends React.Component {
   constructor() {
     super();
@@ -7,29 +11,41 @@ class Directory extends React.Component {
     this.state = {
       sections: [{
         title: 'jewelry',
-        imageURL: 'URL',
+        imageURL: 'https://imgur.com/zYdMewx',
         id: 1
       },
       {
         title: 'candles',
-        imageURL: 'URL',
+        imageURL: 'https://imgur.com/2il5E0I',
         id: 2
       },
       {
         title: 'teas',
-        imageURL: 'URL',
+        imageURL: 'https://imgur.com/SXovNoU',
         id: 3
       },
       {
         title: 'crystals',
-        imageURL: 'URL',
+        imageURL: 'https://imgur.com/tvUdU5g',
         id: 4
       },
       {
         title: 'sage kits',
-        imageURL: 'URL',
+        imageURL: 'https://imgur.com/QirD53O',
         id: 5
       }]
     }
   }
+
+  render() {
+    return (
+      <div className = 'directory-menu'>
+        { this.state.sections.map(({title, imageURL, id}) => (
+          <MenuItem key={id} title={title} />
+        ))}
+      </div>
+    );
+  }
 }
+
+export default Directory;
