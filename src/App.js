@@ -5,12 +5,7 @@ import './App.css';
 import logo from './MysticSage_logo_black.png';
 
 import HomePage from './pages/homepage/homepage.component';
-
-const JewelryPage = () => (
-  <div>
-    <h1>Jewelry Page</h1>
-  </div>
-)
+import ShopPage from './pages/shop/shop.component.jsx';
 
 function App() {
   return (
@@ -18,7 +13,7 @@ function App() {
     <img src={logo} className="App-logo" alt="logo" />
       <Switch>
         <Route exact path='/' component={HomePage} />
-        <Route path='/jewelry' component={JewelryPage} />
+        <Route path='/shop' component={ShopPage} />
       </Switch>
     </div>
   );
