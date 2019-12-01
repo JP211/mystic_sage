@@ -1,4 +1,34 @@
 .logo {
-  height: 245px;
+  height: 75px;
   width: auto;
+}
+
+.header {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  margin-left: 75px;
+
+  .logo-container {
+    //height: 100%;
+    //width: 70px;
+    //padding: 15px;
+  }
+
+  .options {
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bolder;
+    margin-right: 150px;
+
+    .option {
+      padding: 25px 10px;
+      margin-top: 35px;
+    }
+  }
 }
