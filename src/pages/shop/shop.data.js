@@ -6,9 +6,9 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Teardrop Cocktail Ring',
-        imageUrl: 'https://i.imgur.com/OiunzWU.jpg',
-        price: 25
+        name: 'Puffed Heart Floral Locket',
+        imageUrl: 'https://i.imgur.com/En9d0an.jpg',
+        price: 36
       },
       {
         id: 2,
@@ -18,51 +18,51 @@ const SHOP_DATA = [
       },
       {
         id: 3,
-        name: 'Mixed Blues Stone Bracelet',
-        imageUrl: 'https://i.imgur.com/11TJPfd.jpg',
-        price: 35
-      },
-      {
-        id: 4,
-        name: 'White Sapphire Drop Necklace ',
-        imageUrl: 'https://i.imgur.com/lj3naK4.jpg',
-        price: 96
-      },
-      {
-        id: 5,
         name: 'London Blue Topaz Pearl Necklace',
         imageUrl: 'https://i.imgur.com/pa6nLHe.jpg',
         price: 78
       },
       {
-        id: 6,
+        id: 4,
+        name: 'Blue Geode Gemstone Bracelet',
+        imageUrl: 'https://i.imgur.com/SqLEPYp.jpg',
+        price: 75
+      },
+      {
+        id: 5,
         name: 'Jasper & White Stone Beaded Necklace',
         imageUrl: 'https://i.imgur.com/Wd8LRJi.jpg',
         price: 24
       },
       {
-        id: 7,
-        name: 'Antique Pocket Watch Necklace',
-        imageUrl: 'https://i.imgur.com/0DlwqCS.jpg',
-        price: 18
+        id: 6,
+        name: 'Teardrop Cocktail Ring',
+        imageUrl: 'https://i.imgur.com/OiunzWU.jpg',
+        price: 25
       },
       {
-        id: 8,
+        id: 7,
         name: 'Rose Quartz Bangle',
         imageUrl: 'https://i.imgur.com/TuykmXs.jpg',
         price: 54
       },
       {
+        id: 8,
+        name: 'White Sapphire Drop Necklace ',
+        imageUrl: 'https://i.imgur.com/lj3naK4.jpg',
+        price: 96
+      },
+      {
         id: 9,
-        name: 'Puffed Heart Floral Locket',
-        imageUrl: 'https://i.imgur.com/En9d0an.jpg',
-        price: 36
+        name: 'Mixed Blues Stone Bracelet',
+        imageUrl: 'https://i.imgur.com/11TJPfd.jpg',
+        price: 35
       },
       {
         id: 10,
-        name: 'Blue Geode Gemstone Bracelet',
-        imageUrl: 'https://i.imgur.com/SqLEPYp.jpg',
-        price: 75
+        name: 'Antique Pocket Watch Necklace',
+        imageUrl: 'https://i.imgur.com/0DlwqCS.jpg',
+        price: 18
       }
     ]
   },
@@ -73,9 +73,9 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Cauldron Pot Candle',
-        imageUrl: 'https://i.imgur.com/IogxvnS.jpg',
-        price: 22
+        name: 'Glass Tealight Set',
+        imageUrl: 'https://i.imgur.com/w4NodZH.jpg',
+        price: 20
       },
       {
         id: 2,
@@ -85,39 +85,39 @@ const SHOP_DATA = [
       },
       {
         id: 3,
-        name: 'Tealight Candle Set',
-        imageUrl: 'https://i.imgur.com/l1Jo2mj.jpg',
-        price: 11
-      },
-      {
-        id: 4,
-        name: 'Beaded Pearl Candle',
-        imageUrl: 'https://i.imgur.com/WN7G7NY.jpg',
-        price: 36
-      },
-      {
-        id: 5,
-        name: 'Stone Essence Oil Candle',
-        imageUrl: 'https://i.imgur.com/z7KZxJT.jpg',
-        price: 55
-      },
-      {
-        id: 6,
         name: 'Bamboo Blossom Candle',
         imageUrl: 'https://i.imgur.com/YoR0pGJ.jpg',
         price: 26
       },
       {
-        id: 7,
+        id: 4,
+        name: 'Stone Essence Oil Candle',
+        imageUrl: 'https://i.imgur.com/z7KZxJT.jpg',
+        price: 55
+      },
+      {
+        id: 5,
         name: 'Carved Rose Candle',
         imageUrl: 'https://i.imgur.com/fqWiF7L.jpg',
         price: 59
       },
       {
+        id: 6,
+        name: 'Tealight Candle Set',
+        imageUrl: 'https://i.imgur.com/l1Jo2mj.jpg',
+        price: 11
+      },
+      {
+        id: 7,
+        name: 'Beaded Pearl Candle',
+        imageUrl: 'https://i.imgur.com/WN7G7NY.jpg',
+        price: 36
+      },
+      {
         id: 8,
-        name: 'Glass Tealight Set',
-        imageUrl: 'https://i.imgur.com/w4NodZH.jpg',
-        price: 20
+        name: 'Cauldron Pot Candle',
+        imageUrl: 'https://i.imgur.com/IogxvnS.jpg',
+        price: 22
       },
       {
         id: 9,
@@ -158,27 +158,27 @@ const SHOP_DATA = [
       },
       {
         id: 4,
+        name: 'Raspberry Hibiscus White Tea',
+        imageUrl: 'https://i.imgur.com/VAc96ns.jpg',
+        price: 18
+      },
+      {
+        id: 5,
         name: 'Orange Spice Flower Tea Balls',
         imageUrl: 'https://i.imgur.com/jCJaV62.jpg',
         price: 35
       },
       {
-        id: 5,
+        id: 6,
         name: 'Black Tea Dried Fruit Blend',
         imageUrl: 'https://i.imgur.com/X3bb5oS.jpg',
         price: 25
       },
       {
-        id: 6,
+        id: 7,
         name: 'Floral Fruits Berry Tea Blend',
         imageUrl: 'https://i.imgur.com/vh00jkB.jpg',
         price: 35
-      },
-      {
-        id: 7,
-        name: 'Raspberry Hibiscus White Tea',
-        imageUrl: 'https://i.imgur.com/VAc96ns.jpg',
-        price: 18
       },
       {
         id: 8,
@@ -219,45 +219,45 @@ const SHOP_DATA = [
       },
       {
         id: 3,
-        name: 'Aquamarine Rough Crystal',
-        imageUrl: 'https://i.imgur.com/Hd8foMf.jpg',
-        price: 80
-      },
-      {
-        id: 4,
-        name: 'Amethyst Crystal Burst with Stand',
-        imageUrl: 'https://i.imgur.com/8m10TMT.jpg',
-        price: 99
-      },
-      {
-        id: 5,
         name: 'Crystal Photo Sphere',
         imageUrl: 'https://i.imgur.com/bVM2mYb.jpg',
         price: 45
       },
       {
-        id: 6,
+        id: 4,
+        name: 'Meditation White Quartz Crystal',
+        imageUrl: 'https://i.imgur.com/BDfSmB9.jpg',
+        price: 95
+      },
+      {
+        id: 5,
         name: 'Large Sand Topaz Crystal',
         imageUrl: 'https://i.imgur.com/n9RF2AO.jpg',
         price: 135
       },
       {
+        id: 6,
+        name: 'Aquamarine Rough Crystal',
+        imageUrl: 'https://i.imgur.com/Hd8foMf.jpg',
+        price: 80
+      },
+      {
         id: 7,
+        name: 'Amethyst Crystal Burst with Stand',
+        imageUrl: 'https://i.imgur.com/8m10TMT.jpg',
+        price: 99
+      },
+      {
+        id: 8,
         name: 'Himalayan Salt Crystal Set',
         imageUrl: 'https://i.imgur.com/kSQFlNs.jpg',
         price: 60
       },
       {
-        id: 8,
+        id: 9,
         name: 'Collector\'s Quartz Crystal Formation',
         imageUrl: 'https://i.imgur.com/9qKLUai.jpg',
         price: 185
-      },
-      {
-        id: 9,
-        name: 'Meditation White Quartz Crystal',
-        imageUrl: 'https://i.imgur.com/BDfSmB9.jpg',
-        price: 95
       },
       {
         id: 10,
@@ -275,7 +275,7 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Amethyst Cleansing Sage Kit',
-        imageUrl: 'https://i.imgur.com/XkI4OEv.jpg',
+        imageUrl: 'https://i.imgur.com/SXZK2uz.png',
         price: 32
       },
       {
@@ -292,9 +292,9 @@ const SHOP_DATA = [
       },
       {
         id: 4,
-        name: 'Floral Essence Oils Set',
-        imageUrl: 'https://i.imgur.com/EyVKzpN.jpg',
-        price: 95
+        name: 'Hickory & Pine Sage Kit',
+        imageUrl: 'https://i.imgur.com/1VRjdmv.jpg',
+        price: 28
       },
       {
         id: 5,
@@ -304,15 +304,15 @@ const SHOP_DATA = [
       },
       {
         id: 6,
-        name: 'Cleansing Sage & Tarot Set',
-        imageUrl: 'https://i.imgur.com/rBJoPYj.jpg',
-        price: 25
+        name: 'Floral Essence Oils Set',
+        imageUrl: 'https://i.imgur.com/EyVKzpN.jpg',
+        price: 95
       },
       {
         id: 7,
-        name: 'Hickory & Pine Sage Kit',
-        imageUrl: 'https://i.imgur.com/1VRjdmv.jpg',
-        price: 28
+        name: 'Cleansing Sage & Tarot Set',
+        imageUrl: 'https://i.imgur.com/rBJoPYj.jpg',
+        price: 25
       },
       {
         id: 8,
