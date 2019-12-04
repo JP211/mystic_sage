@@ -25,10 +25,12 @@
     justify-content: flex-end;
     font-weight: bolder;
     margin-right: 150px;
+    color: #501882;
 
     .option {
       padding: 25px 10px;
       margin-top: 35px;
+      cursor: pointer;
     }
   }
 }
