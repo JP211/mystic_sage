@@ -12,9 +12,8 @@
   margin-left: 75px;
 
   .logo-container {
-    //height: 100%;
-    //width: 70px;
-    //padding: 15px;
+   margin-left: -100px;
+   padding-top: 3px;
   }
 
   .options {
@@ -24,7 +23,7 @@
     align-items: center;
     justify-content: flex-end;
     font-weight: bolder;
-    margin-right: 150px;
+    margin-right: 75px;
     color: #501882;
 
     .option {
