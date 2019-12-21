@@ -1,5 +1,5 @@
-const SHOP_DATA = [
-  {
+const SHOP_DATA = {
+  jewelry: {
     id: 1,
     title: 'Jewelry',
     routeName: 'jewelry',
@@ -66,7 +66,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  candles: {
     id: 2,
     title: 'Candles',
     routeName: 'candles',
@@ -133,7 +133,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  teas: {
     id: 3,
     title: 'Teas',
     routeName: 'teas',
@@ -200,7 +200,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  crystals: {
     id: 4,
     title: 'Crystals',
     routeName: 'crystals',
@@ -267,7 +267,7 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  sagekits: {
     id: 5,
     title: 'Sage Kits',
     routeName: 'sagekits',
@@ -334,6 +334,6 @@ const SHOP_DATA = [
       }
     ]
   }
-]
+};
 
 export default SHOP_DATA;
