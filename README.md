@@ -2,21 +2,27 @@
 An ecommerce crystal &amp; gift shop built with React and Redux. This site uses Firebase for user authentication, login with Google functionality, Stripe payments, and has user session persistence. The site features several collections for a gift shop including crystals, teas, jewelry and more.
 
 Overview:
-![Imgur](https://imgur.com/FpMvKb8)
 
-![Imgur](https://imgur.com/0fRPwVU)
+Home Page
+![Imgur](https://i.imgur.com/FpMvKb8.png)
 
-![Imgur](https://imgur.com/dFOjZBA)
+Collection Overview Page
+![Imgur](https://i.imgur.com/0fRPwVU.png)
 
-![Imgur](https://imgur.com/fm5GL8k)
+Product Page Example
+![Imgur](https://i.imgur.com/dn7HZn5.png)
 
-![Imgur](https://imgur.com/dn7HZn5)
+Sign In / Sign Up Page
+![Imgur](https://i.imgur.com/dFOjZBA.png)
 
-![Imgur](https://imgur.com/nxQp8XY)
+Checkout Page
+![Imgur](https://i.imgur.com/fm5GL8k.png)
 
-![Imgur](https://imgur.com/RAVrWl0)
+Stripe Payments
+![Imgur](https://i.imgur.com/nxQp8XY.png)
 
-
+Cart Dropdown
+[Imgur](https://i.imgur.com/RAVrWl0.png)
 
 
 If you would like to test out the app, visit (Link Coming Soon) for a live demo!
