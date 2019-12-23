@@ -32,4 +32,4 @@ Cart Dropdown
 ![Imgur](https://i.imgur.com/RAVrWl0.png)
 
 
-If you would like to test out the app, visit (Link Coming Soon) for a live demo!
+If you would like to test out the app, visit https://mystic-sage.herokuapp.com/ for a live demo!
