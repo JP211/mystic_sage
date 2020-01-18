@@ -3,7 +3,7 @@ An ecommerce crystal &amp; gift shop built with React and Redux. This site uses 
 
 Live Demo: https://mystic-sage.herokuapp.com/
 
-Overview:
+Overview -
 
 Home Page
 
